@@ -142,24 +142,6 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DkKissling&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats">
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DkKissling&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-      </td>
-    </tr>
-  </table>
-  <img src="https://streak-stats.demolab.com?user=DkKissling&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</div>
-
----
-
 ## 🎓 Certificaciones
 
 - 🐍 **Python TOTAL** - Udemy.inc - Programador Avanzado (2024-2025)
