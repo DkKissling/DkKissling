@@ -1,5 +1,5 @@
 <div align="center">
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/0EYdrOv" data-context="false" ><a href="//imgur.com/a/0EYdrOv"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+  <img src="https://i.imgur.com/1B6pXKQ.jpeg" alt="Banner" width="100%">
 </div>
 
 <h1 align="center">👋 ¡Hola! Soy Guillermo Kissling</h1>
