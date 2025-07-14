@@ -1,9 +1,6 @@
 <div align="center">
-  <img src="https://i.postimg.cc/bNJJcNJY/laptop-con-una-pantalla-brillante-en-una-mesa-en-el-espacio-de-copia-de-vista-superior-oscura.jpg" alt="Banner" width="100%">
+  <img src="https://i.postimg.cc/hPghGW06/Grabaci-n-de-pantalla-2025-07-14-222228-online-video-cutter-com.gif" alt="Banner" width="100%">
 </div>
-
-<h1 align="center">👋 ¡Hola! Soy Guillermo Kissling</h1>
-<h3 align="center">Mid Full Stack Developer | Python & Web Performance Specialist</h3>
 
 <div align="center">
   <a href="https://linkedin.com/in/dkkissling">
