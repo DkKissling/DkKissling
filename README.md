@@ -279,39 +279,52 @@ def optimize_web_performance():
         
         <div class="location">📍 Málaga, España</div>
     </div>
-
-    
 </body>
 </html>
+
+<h1 align="center">👋 ¡Hola! Soy Guillermo Kissling</h1>
+<h3 align="center">Mid Full Stack Developer | Python & Web Performance Specialist</h3>
+
+<div align="center">
+  <a href="https://linkedin.com/in/dkkissling">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:danielkissling65@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://github.com/DkKissling?tab=repositories">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+  </a>
+</div>
 
 ---
 
 ## 🚀 Sobre Mí
 
-**4+ años de experiencia** desarrollando soluciones Full Stack con enfoque en **Python y optimización web**. 
+*4+ años de experiencia* desarrollando soluciones Full Stack con enfoque en *Python y optimización web*. 
 
-💡 **Destacados:**
-- Optimicé Core Web Vitals (LCP/CLS) para sitio con **10K visitas diarias**
-- Mejorando PageSpeed de **45 a 85+** y reduciendo tiempos de carga en **40%**
-- Migré sistemas legacy manejando **+3K transacciones diarias**
+💡 *Destacados:*
+- Optimicé Core Web Vitals (LCP/CLS) para sitio con *10K visitas diarias*
+- Mejorando PageSpeed de *45 a 85+* y reduciendo tiempos de carga en *40%*
+- Migré sistemas legacy manejando *+3K transacciones diarias*
 - Dockerización de aplicaciones y desarrollo de e-commerce con pasarelas de pago
 
-🎯 **Especializado en:** Python/Flask, Docker, SEO técnico, Computer Vision y migración de sistemas legacy
+🎯 *Especializado en:* Python/Flask, Docker, SEO técnico, Computer Vision y migración de sistemas legacy
 
 ---
 
 ## 💼 Experiencia Reciente
 
-### 🔹 Autónomo | Full Stack Developer *(Mar 2024 - Actualidad)*
-- Desarrollo de soluciones e-commerce con **Python/Flask y Docker**
-- Implementación de pasarela de pagos con **Mercado Pago**
-- Diseño de modelos relacionales escalables (**MySQL**)
-- Colaboración frontend con **React/Tailwind CSS**
+### 🔹 Autónomo | Full Stack Developer (Mar 2024 - Actualidad)
+- Desarrollo de soluciones e-commerce con *Python/Flask y Docker*
+- Implementación de pasarela de pagos con *Mercado Pago*
+- Diseño de modelos relacionales escalables (*MySQL*)
+- Colaboración frontend con *React/Tailwind CSS*
 
-### 🔹 TopTive | Frontend Developer & SEO Specialist *(Jul 2021 - Jul 2023)*
-- Optimización SEO técnico con **Ezoic**
-- Desarrollo con **Next.js** y **Tailwind CSS**
-- Implementación de **lazy loading** y optimización de assets
+### 🔹 TopTive | Frontend Developer & SEO Specialist (Jul 2021 - Jul 2023)
+- Optimización SEO técnico con *Ezoic*
+- Desarrollo con *Next.js* y *Tailwind CSS*
+- Implementación de *lazy loading* y optimización de assets
 - Diagnóstico y corrección de errores JavaScript en producción
 
 ---
@@ -401,20 +414,20 @@ def optimize_web_performance():
 
 ## 🏆 Logros Técnicos
 
-- 🚀 **Optimización Web:** PageSpeed 45 → 85+ | Core Web Vitals mejorados
-- 📈 **Performance:** Reducción 40% tiempo de carga | 10K visitas diarias
-- 🔄 **Migración:** Sistemas legacy con +3K transacciones diarias
-- 🎯 **Eficiencia:** Mejora 35% en consultas SQL | 25% usabilidad frontend
-- 🐳 **DevOps:** Dockerización completa | CI/CD con GitHub Actions
+- 🚀 *Optimización Web:* PageSpeed 45 → 85+ | Core Web Vitals mejorados
+- 📈 *Performance:* Reducción 40% tiempo de carga | 10K visitas diarias
+- 🔄 *Migración:* Sistemas legacy con +3K transacciones diarias
+- 🎯 *Eficiencia:* Mejora 35% en consultas SQL | 25% usabilidad frontend
+- 🐳 *DevOps:* Dockerización completa | CI/CD con GitHub Actions
 
 ---
 
 ## 🎓 Certificaciones
 
-- 🐍 **Python TOTAL** - Udemy.inc - Programador Avanzado (2024-2025)
-- 💻 **Full Stack Development** - University of Helsinki (2023-2024)
-- ⚛️ **Frontend Developer Libraries** - FreeCodeCamp (2023-2024)
-- 🎯 **Desarrollo de Software** - ITEC Río Cuarto (2020-2023)
+- 🐍 *Python TOTAL* - Udemy.inc - Programador Avanzado (2024-2025)
+- 💻 *Full Stack Development* - University of Helsinki (2023-2024)
+- ⚛️ *Frontend Developer Libraries* - FreeCodeCamp (2023-2024)
+- 🎯 *Desarrollo de Software* - ITEC Río Cuarto (2020-2023)
 
 ---
 
