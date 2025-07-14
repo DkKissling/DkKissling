@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/0EYdrOv.jpeg" alt="Banner" width="100%">
+  <img src="https://imgur.com/a/0EYdrOv" alt="Banner" width="100%">
 </div>
 
 <h1 align="center">👋 ¡Hola! Soy Guillermo Kissling</h1>
