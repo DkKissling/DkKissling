@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://postimg.cc/Rqk9wmK2" alt="Banner" width="100%">
+  <img src="https://i.postimg.cc/bNJJcNJY/laptop-con-una-pantalla-brillante-en-una-mesa-en-el-espacio-de-copia-de-vista-superior-oscura.jpg" alt="Banner" width="100%">
 </div>
 
 <h1 align="center">👋 ¡Hola! Soy Guillermo Kissling</h1>
