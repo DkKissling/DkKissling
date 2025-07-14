@@ -82,11 +82,9 @@
           <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
         </p>
       </td>
-      <td width="50%">
         <div align="center">
           <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Night Coding" width="100%">
         </div>
-      </td>
     </tr>
   </table>
 </div>
